@@ -1,0 +1,5 @@
+Toyota, AA1234BB, Red, Shevchenko
+BMW, BC5678CD, Blue, Petrenko
+Toyota, DD4321CC, Red, Ivanenko
+Audi, EE9999FF, Black, Kovalenko
+Toyota, FF0001ZZ, Blue, Bondarenko
